@@ -1,0 +1,27 @@
+.triangle  {
+	width: 0;
+	height: 0;
+	border-left: 0px solid transparent;
+	border-right: 400px solid transparent;
+  border-bottom: 150px solid rgb(163, 163, 163);
+  display:inline-block
+}
+
+.triangleContainer{
+  display:inline;
+  color: red;
+  
+}
+
+.formContainer {
+  display: block; 
+  margin: auto;  
+  margin-bottom: 15px;  
+  width: 60%;
+  height: 10%;
+  
+}
+.Small-input{
+  display:inline-block;
+  size: 5px;
+}
